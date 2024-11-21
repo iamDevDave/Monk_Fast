@@ -1,0 +1,14 @@
+{
+    "7249180341": {
+        "user_id": 7249180341,
+        "username": "Deviddesanta",
+        "schedule_time": "2024-12-03 11:44:18",
+        "reminder": {
+            "interval_minutes": 2,
+            "user_id": 7249180341,
+            "username": "Deviddesanta",
+            "schedule_time": "2024-12-03 11:44:18",
+            "active": true
+        }
+    }
+}
